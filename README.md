@@ -1,12 +1,16 @@
 <h1 align="center">Welcome to yet-another-twitter-bot-by-me-v4 👋</h1>
+
+
+<div align="center">
+    <img alt="logo" src="logo.png" />
+</div>
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-4-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/kammzinho" target="_blank">
     <img alt="Twitter: kammzinho" src="https://img.shields.io/twitter/follow/kammzinho.svg?style=social" />
   </a>
 </p>
-
-<img alt="logo" src="logo.png" />
 
 > A twitter bot project while studying Ruby & Clockwork & Procodile
 
