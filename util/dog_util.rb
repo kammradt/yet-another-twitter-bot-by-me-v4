@@ -8,7 +8,7 @@ module DogUtil
 
     response = Net::HTTP.get_response(URI('https://dog.ceo/api/breed/retriever/golden/images/random'))
 
-    JSON.parse(response.body)['message'] if response.is_a?(Net::HTTPSuccess)
+    return JSON.parse(response.body)['message'] if response.is_a?(Net::HTTPSuccess)
 
     default_url
   end
