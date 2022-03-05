@@ -15,7 +15,8 @@
 > A twitter bot project while studying Ruby & Clockwork & Procodile
 
 ### 🏠 [Homepage](https://github.com/C41949)
-> Currently running this project on a raspberry pi 4.
+> Currently running this project on a raspberry pi 4.  
+> TODO: Probably use background jobs with sidekiq, since clockwork is 'doing a thing at a time'
 
 ### Older versions
 #### First version
